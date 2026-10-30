@@ -43,6 +43,13 @@ A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a s
 </div> -->
 
 ---
+# 🚀 My Contributions
+
+<div align="center">
+
+![Space shooter game playing on my contribution graph](game.gif)
+
+</div>
 
 <div align="center">
 
