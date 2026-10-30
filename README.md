@@ -66,6 +66,8 @@ A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a s
 
 ## 💬 Let's connect
 
+![code with peace](coding.gif)
+
 Have a project in mind or just want to say hi? Reach me through my [portfolio](https://sithy.168/?utm_source=github&utm_medium=readme).
 
 ⭐ If you find my work useful, a star on a repo goes a long way — thank you!
