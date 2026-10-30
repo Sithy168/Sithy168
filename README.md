@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Sithy 👋</h1>
+<div align="center">
 
-<p align="center">
-  Developer building Discord bots and the dashboards that run them.
-</p>
+Hi, I'm **Sithy** 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sithy168.xyz-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sithy168.xyz)
-![GitHub followers](https://img.shields.io/github/followers/Sithy168?style=for-the-badge&logo=github&color=10b981)
-![Profile views](https://komarev.com/ghpvc/?username=Sithy168&style=for-the-badge&color=10b981&label=Profile+views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sithy168.xyz-10b981?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://sithy168.xyz)
+![GitHub followers](https://img.shields.io/github/followers/Sithy168?style=for-the-badge&logo=github&color=0f172a)
+![Profile views](https://komarev.com/ghpvc/?username=Sithy168&style=for-the-badge&color=0f172a&label=Profile+views)
+
+</div>
 
 ---
 
