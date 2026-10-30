@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/starsSithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/stars/Sithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
 </p>
 
 ---
