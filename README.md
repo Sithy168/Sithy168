@@ -29,14 +29,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-## 📌 Featured Project
-
-### 🎐 [Sithy Music](https://github.com/Sithy168/Sithy-music)
-A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a separate Next.js website and dashboard.
-
-<p><img src="https://skillicons.dev/icons?i=TypeScript,Discord.js,Lavalink,Prisma,Next.j&theme=dark" alt="Frontend" /></p>
-
-`TypeScript` · `Discord.js` · `Lavalink` · `Prisma` · `Next.js`
 
 ## 📊 GitHub Stats
 
