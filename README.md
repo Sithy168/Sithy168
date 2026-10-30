@@ -4,11 +4,9 @@
   Developer building Discord bots and the dashboards that run them.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-sithy168.xyz?style=for-the-badge&logo=googlechrome&logoColor=0f172a"](https://www.sithy168.xyz) />
-  <img src="https://img.shields.io/github/followers/Sithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/stars/Sithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sithy168.xyz-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sithy168.xyz)
+![GitHub followers](https://img.shields.io/github/followers/Sithy168?style=for-the-badge&logo=github&color=10b981)
+![Profile views](https://komarev.com/ghpvc/?username=Sithy168&style=for-the-badge&color=10b981&label=Profile+views)
 
 ---
 
