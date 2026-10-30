@@ -29,7 +29,7 @@
 
 ## 📌 Featured Project
 
-### 🍑 [Peachy Music](https://github.com/yuuslokrobjakkroval/peachy-music)
+### 🎐 [Sithy Music](https://github.com/Sithy168/Sithy-Music)
 
 A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a separate Next.js website and dashboard.
 
