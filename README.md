@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/stars/yuuslokrobjakkroval?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/followers/Sithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/starsSithy168?style=for-the-badge&color=38bdf8&labelColor=0f172a" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 👤 My name is **Sithy**
-- 🎵 Building **Peachy Music**, a Discord music bot with a web dashboard
+- 🎵 Building **Sithy Music**, a Discord music bot with a web dashboard
 - 🛠️ Into bots, APIs, and clean full-stack apps
 - 📚 Currently learning: <!-- add what you're learning -->
 - 📫 Reach me: <!-- Discord / email / socials -->
@@ -31,7 +31,7 @@
 
 ## 📌 Featured Project
 
-### 🍑 [Peachy Music](https://github.com/yuuslokrobjakkroval/peachy-music)
+### 🍑 [Peachy Music](https://github.com/Sithy168/Sithy-music)
 A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a separate Next.js website and dashboard.
 
 `TypeScript` · `Discord.js` · `Lavalink` · `Prisma` · `Next.js`
@@ -39,8 +39,8 @@ A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?usernameSithy168&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithy168&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
