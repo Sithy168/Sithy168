@@ -46,10 +46,10 @@ A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a s
 
 <div align="center">
 
-<a href="https://skyline.peachygang.app/Sithy168">
+<a href="https://contribution.underscoregang.xyz/Sithy168">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skyline.peachygang.app/api/skyline?username=Sithy168&theme=dark">
-    <img alt="Sithy168's contribution skyline" src="https://skyline.peachygang.app/api/skyline?username=Sithy168&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://contribution.underscoregang.xyz/api/skyline?username=Sithy168&theme=dark">
+    <img alt="Sithy168's contribution skyline" src="https://contribution.underscoregang.xyz/api/skyline?username=Sithy168&theme=light">
   </picture>
 </a>
 
@@ -63,6 +63,6 @@ Have a project in mind or just want to say hi? Reach me through my [portfolio](h
 
 ⭐ If you find my work useful, a star on a repo goes a long way — thank you!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=27A9F51&height=100&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=27A9F5&height=100&section=footer" alt="Footer wave" width="100%" />
 
 </div>
