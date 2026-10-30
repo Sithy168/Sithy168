@@ -14,10 +14,8 @@
 ## 🚀 About Me
 
 - 👤 My name is **Sithy**
-- 🎵 Building **Sithy Music**, a Discord music bot with a web dashboard
+- 🎵 Building **Peachy Music**, a Discord music bot with a web dashboard
 - 🛠️ Into bots, APIs, and clean full-stack apps
-- 📚 Currently learning: <!-- add what you're learning -->
-- 📫 Reach me: <!-- Discord / email / socials -->
 
 ## 🧰 Tech Stack
 
@@ -29,11 +27,18 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+## 📌 Featured Project
+
+### 🍑 [Peachy Music](https://github.com/yuuslokrobjakkroval/peachy-music)
+
+A Discord music bot built with Discord.js v14, Lavalink v4, and Prisma, with a separate Next.js website and dashboard.
+
+`TypeScript` · `Discord.js` · `Lavalink` · `Prisma` · `Next.js`
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?usernameSithy168&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sithy168&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithy168&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
